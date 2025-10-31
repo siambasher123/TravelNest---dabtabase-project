@@ -1,0 +1,15 @@
+SELECT
+  h.hotel_id,
+  h.destination_id,
+  h.name,
+  h.base_price,
+  h.rating,
+  d.destination_id,
+  d.name AS destination_name,
+  d.country,
+  d.description
+FROM hotels AS h
+JOIN destinations AS d
+  ON h.destination_id = d.destination_id
+WHERE
+  d.country = 'Australia';

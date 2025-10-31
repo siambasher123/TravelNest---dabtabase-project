@@ -1,0 +1,8 @@
+==== TravelNest Admin Report (Generated: 2025-10-26 07:32:39) ====
+
+Top Hotels:
+- Tokyo Imperial Inn (Dubai, UAE) Rating: 4.9
+- Tokyo Imperial Inn (Dubai, UAE) Rating: 4.9
+- Dubai Crown Plaza (Paris, France) Rating: 4.8
+- Singapore Marina Stay (Barcelona, Spain) Rating: 4.8
+- Dubai Crown Plaza (Paris, France) Rating: 4.8

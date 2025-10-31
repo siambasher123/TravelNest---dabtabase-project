@@ -1,0 +1,30 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "SELECT\n  h.hotel_id,\n  h.destination_id,\n  h.name,\n  h.base_price,\n  h.rating,\n  d.destination_id,\n  d.name AS destination_name,\n  d.country,\n  d.description\nFROM hotels AS h\nJOIN destinations AS d\n  ON h.destination_id = d.destination_id\nWHERE\n  d.country = 'Australia';"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 273,
+    "candidatesTokenCount": 101,
+    "totalTokenCount": 524,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 273
+      }
+    ],
+    "thoughtsTokenCount": 150
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "War9aO2DG5vB1e8P0pnM-Ao"
+}
