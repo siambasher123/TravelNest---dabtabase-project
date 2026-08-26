@@ -22,8 +22,11 @@
 Beyond functioning as a booking platform, TravelNest was built to demonstrate real-world applications of core database concepts: CRUD operations, joins, aggregate functions, subqueries, set operations, views, filtering, grouping, and report generation.
 
 <div align="center">
-<img src="home1.png" alt="TravelNest home page" width="45%">
-<img src="home2.png" alt="TravelNest home page" width="45%">
+    <img src="home1.png" alt="TravelNest home page" width="80%">
+
+    <br><br>
+
+    <img src="home2.png" alt="TravelNest home page" width="80%">
 </div>
 
 ---
