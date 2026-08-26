@@ -23,9 +23,6 @@ Beyond functioning as a booking platform, TravelNest was built to demonstrate re
 
 <div align="center">
     <img src="home1.png" alt="TravelNest home page" width="80%">
-
-    <br><br>
-
     <img src="home2.png" alt="TravelNest home page" width="80%">
 </div>
 
